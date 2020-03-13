@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns:svg='http://www.w3.org/2000/svg' xmlns='http://www.w3.org/2000/svg' version='1.2' baseProfile='tiny' x='0in' y='0in' width='4.83936in' height='3.3872in' viewBox='0 0 348.434 243.879' >
+<g partID='2090'><line stroke-linecap='round' stroke='#1b5bb3' x1='254.166' y1='45.6021' x2='254.166' y2='108.458' stroke-width='3.2' /><line stroke-linecap='round' stroke='#418dd9' x1='254.166' y1='45.6021' x2='254.166' y2='108.458' stroke-width='1.6' /></g><g partID='370'><line stroke-linecap='round' stroke='#1b5bb3' x1='189.413' y1='45.6021' x2='254.166' y2='45.6021' stroke-width='3.2' /><line stroke-linecap='round' stroke='#418dd9' x1='189.413' y1='45.6021' x2='254.166' y2='45.6021' stroke-width='1.6' /></g><g partID='1160'><line stroke-linecap='round' stroke='#ad6a38' x1='235.912' y1='115.551' x2='254.167' y2='115.658' stroke-width='3.2' /><line stroke-linecap='round' stroke='#ef6100' x1='235.912' y1='115.551' x2='254.167' y2='115.658' stroke-width='1.6' /></g><g partID='970'><line stroke-linecap='round' stroke='#ad6a38' x1='110.236' y1='200.751' x2='235.645' y2='200.751' stroke-width='3.2' /><line stroke-linecap='round' stroke='#ef6100' x1='110.236' y1='200.751' x2='235.645' y2='200.751' stroke-width='1.6' /></g><g partID='780'><line stroke-linecap='round' stroke='#ad6a38' x1='235.645' y1='200.751' x2='235.912' y2='115.551' stroke-width='3.2' /><line stroke-linecap='round' stroke='#ef6100' x1='235.645' y1='200.751' x2='235.912' y2='115.551' stroke-width='1.6' /></g><g partID='590'><line stroke-linecap='round' stroke='#ad6a38' x1='110.236' y1='182.417' x2='110.236' y2='200.751' stroke-width='3.2' /><line stroke-linecap='round' stroke='#ef6100' x1='110.236' y1='182.417' x2='110.236' y2='200.751' stroke-width='1.6' /></g><g partID='1710'><line stroke-linecap='round' stroke='#ad6a38' x1='236.178' y1='130.199' x2='254.167' y2='130.075' stroke-width='3.2' /><line stroke-linecap='round' stroke='#ef6100' x1='236.178' y1='130.199' x2='254.167' y2='130.075' stroke-width='1.6' /></g><g partID='1740'><line stroke-linecap='round' stroke='#00a527' x1='182.216' y1='45.6021' x2='182.218' y2='28.1395' stroke-width='3.2' /><line stroke-linecap='round' stroke='#25cc35' x1='182.216' y1='45.6021' x2='182.218' y2='28.1395' stroke-width='1.6' /></g><g partID='1810'><line stroke-linecap='round' stroke='#00a527' x1='261.367' y1='155.01' x2='261.367' y2='130.074' stroke-width='3.2' /><line stroke-linecap='round' stroke='#25cc35' x1='261.367' y1='155.01' x2='261.367' y2='130.074' stroke-width='1.6' /></g><g partID='2460'><line stroke-linecap='round' stroke='#00a527' x1='181.875' y1='3.22397' x2='345.229' y2='3.22397' stroke-width='3.2' /><line stroke-linecap='round' stroke='#25cc35' x1='181.875' y1='3.22397' x2='345.229' y2='3.22397' stroke-width='1.6' /></g><g partID='2020'><line stroke-linecap='round' stroke='#00a527' x1='182.218' y1='28.1395' x2='181.875' y2='3.22397' stroke-width='3.2' /><line stroke-linecap='round' stroke='#25cc35' x1='182.218' y1='28.1395' x2='181.875' y2='3.22397' stroke-width='1.6' /></g><g partID='1880'><line stroke-linecap='round' stroke='#00a527' x1='345.229' y1='154.788' x2='261.367' y2='155.01' stroke-width='3.2' /><line stroke-linecap='round' stroke='#25cc35' x1='345.229' y1='154.788' x2='261.367' y2='155.01' stroke-width='1.6' /></g><g partID='1950'><line stroke-linecap='round' stroke='#00a527' x1='345.229' y1='3.22397' x2='345.229' y2='154.788' stroke-width='3.2' /><line stroke-linecap='round' stroke='#25cc35' x1='345.229' y1='3.22397' x2='345.229' y2='154.788' stroke-width='1.6' /></g><g partID='2310'><line stroke-linecap='round' stroke='#000000' x1='261.367' y1='58.1632' x2='189.416' y2='58.1632' stroke-width='3.2' /><line stroke-linecap='round' stroke='#404040' x1='261.367' y1='58.1632' x2='189.416' y2='58.1632' stroke-width='1.6' /></g><g partID='2240'><line stroke-linecap='round' stroke='#000000' x1='261.367' y1='108.474' x2='261.367' y2='58.1632' stroke-width='3.2' /><line stroke-linecap='round' stroke='#404040' x1='261.367' y1='108.474' x2='261.367' y2='58.1632' stroke-width='1.6' /></g><g partID='2380'><g transform='translate(128.275,203.879)' ><g>
+ <rect x="2.8" stroke-width="5.6" y="2.8" width="97.6727" stroke="#fabc4f" fill="#ffe9c8" height="34.4"/>
+ <g font-family="Droid Sans" stroke="none" text-anchor="left" font-size="8.8" fill="#000000">
+  <text x="8.8" y="17.6" fill="#000000">Atenci&#xf3;n el modulo </text>
+ </g>
+ <g font-family="Droid Sans" stroke="none" text-anchor="left" font-size="8.8" fill="#000000">
+  <text x="8.8" y="28.8" fill="#000000">funciona a 3.3v</text>
+ </g>
+</g>
+</g></g><g partID='2400'><g transform='translate(305.148,12.4603)' ><g>
+ <rect x="2.8" stroke-width="5.6" y="2.8" width="26.4" stroke="#fabc4f" fill="#ffe9c8" height="23.2"/>
+ <g font-family="Droid Sans" stroke="none" text-anchor="left" font-size="8.8" fill="#000000">
+  <text x="8.8" y="17.6" fill="#000000">RX</text>
+ </g>
+</g>
+</g></g><g partID='2420'><g transform='translate(265.585,61.3331)' ><g>
+ <rect x="2.8" stroke-width="5.6" y="2.8" width="26.4" stroke="#fabc4f" fill="#ffe9c8" height="23.2"/>
+ <g font-family="Droid Sans" stroke="none" text-anchor="left" font-size="8.8" fill="#000000">
+  <text x="8.8" y="17.6" fill="#000000">GND</text>
+ </g>
+</g>
+</g></g><g partID='2440'><g transform='translate(217.875,13.624)' ><g>
+ <rect x="2.8" stroke-width="5.6" y="2.8" width="26.4" stroke="#fabc4f" fill="#ffe9c8" height="23.2"/>
+ <g font-family="Droid Sans" stroke="none" text-anchor="left" font-size="8.8" fill="#000000">
+  <text x="8.8" y="17.6" fill="#000000">TX</text>
+ </g>
+</g>
+</g></g></svg>
