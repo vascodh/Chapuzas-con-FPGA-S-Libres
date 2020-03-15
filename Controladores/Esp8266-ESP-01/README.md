@@ -19,4 +19,10 @@ Conexión entre la Alhambra 2 y el modulo
 ***
 La comunicación con el modulo ESP8266-ESP-01 se realiza por puerto serie a una velocidad de 115200 baudios que viene configurada
 de fábrica.
-El módulo se configura con comandos AT
+El modulo tiene un software pre instalado y puede configurarse mediante comandos AT, mediante una serie de comandos específicos.
+
+Una vez conectado el modulo como se indicó, al enceder la Alhambra arranca el módulo, si inicia de forma correcta queda a la espera de los comandos.
+
+El mas básico es "AT", al cual el modulo, si se encuentra operando correctamente, responde con la cadena "OK"
+
+
