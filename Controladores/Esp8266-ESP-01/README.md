@@ -32,4 +32,4 @@ Cuando se envía la cadena con los comandos se debe enviar al final los caracter
   
 ![Circuito_receptor](https://github.com/vascodh/Chapuzas-con-FPGA-S-Libres/blob/master/Controladores/Esp8266-ESP-01/Documentos/Circuito-fpga-receptor.png)  
 
-El circuito para probrarlo en el ICESTUDIO -> [Conexión-Esp8266](https://github.com/vascodh/Chapuzas-con-FPGA-S-Libres/blob/master/Controladores/Esp8266-ESP-01/Ejemplos-ICESTUDIO/)
+El circuito para probrarlo en el ICESTUDIO, en la sección de ejemplos -> [Conexión-Esp8266](https://github.com/vascodh/Chapuzas-con-FPGA-S-Libres/blob/master/Controladores/Esp8266-ESP-01/Ejemplos-ICESTUDIO/)
