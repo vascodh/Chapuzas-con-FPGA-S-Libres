@@ -30,11 +30,13 @@ Una vez conectado el modulo como se indicó, al enceder la Alhambra arranca el m
 
 El mas básico es "AT", al cual el modulo, si se encuentra operando correctamente, responde con la cadena "OK"
 
+Una guía de comandos AT completa en este [link](https://github.com/vascodh/Chapuzas-con-FPGA-S-Libres/blob/master/Controladores/Esp8266-ESP-01/Documentos/4A-AT-Espressif AT Instruction Set_020.pdf)
+
 El circuito para que nuestra FPGA se comunique con el módulo consta de dos partes un emisor serie, el cual envía la cadena "AT" y un receptor serie que muestra en una consola SERIE (ej. [ScriptCommunicator](https://github.com/Obijuan/digital-electronics-with-open-FPGAs-tutorial/wiki/V%C3%ADdeo-30:-Puerto-serie#instalaci%C3%B3n-del-scriptcommunicator)) todo lo que el módulo nos envíe.
 
 ![Circuito_esmisor](https://github.com/vascodh/Chapuzas-con-FPGA-S-Libres/blob/master/Controladores/Esp8266-ESP-01/Documentos/Circuito-fpga-emisor.png)
 Cuando se envía la cadena con los comandos se debe enviar al final los caracteres CR y LF (0D y 0A en HEX) de otra forma el modulo da error
-  
+
 ![Circuito_receptor](https://github.com/vascodh/Chapuzas-con-FPGA-S-Libres/blob/master/Controladores/Esp8266-ESP-01/Documentos/Circuito-fpga-receptor.png)  
 La parte de recepción serie, recibe del pin tx del módulo las respuestas a los comandos AT ingresados.
 + Todo lo que se recibe se muestra por el puerto serie sacandolo por el pin Tx
