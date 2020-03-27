@@ -1,6 +1,6 @@
 ## Controlador para Modulo WIFI -> ESP8266-ESP-01  ##
 ***
-Agradecer primero a [Obijuan](https://github.com/Obijuan), que ha creado muchas colecciones que son el pilar de lo que yo intento hacer aquí. En su perfil hay mucha info y tutoriales, todo libre, por su puesto, sobre Fpga's. Muchas gracias!!
+Agradecer primero a [Obijuan](https://github.com/Obijuan), que ha creado muchas colecciones que son el pilar de lo que yo intento hacer aquí. En su perfil hay mucha info y tutoriales, todo libre, por supuesto, sobre Fpga's. Muchas gracias!!
 
 Tambien hay un grupo en google [Fpga-wars](https://groups.google.com/forum/#!forum/fpga-wars-explorando-el-lado-libre) donde se comparte mucha info y avances. No quiero olvidarme de nadie... Eladio, Charliva, Jesus Arroyo, Juanma Rico, Jose Pico, Democrito... y a todos
 Muchas Gracias!
@@ -54,4 +54,4 @@ En el siguiente ejemplo [ESP8266-Wifi-Test-01.ice](https://github.com/vascodh/Ch
 + pass.list -> Contraseña de la red Wifi
 + Estos archivos deben estar en la misma carpeta que el ejemplo
 
-En la consola serial se pueden ver todo lo enviamos al modulo y lo que nos responde
+Video mos
