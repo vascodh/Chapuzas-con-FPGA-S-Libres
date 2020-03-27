@@ -45,7 +45,7 @@ El circuito para probrarlo en el ICESTUDIO, en la sección de ejemplos -> [Conex
 ### Controlador Esp8266-ESP-01 - Modo Estación - Mode station
 Este controlador se encarga de configurar el modulo en  Modo estación, el cual permite conectarse a una red wifi hogareña y establecer una ip fija a traves de la cual podemos comunicarnos inalambricamente con el módulo y a su vez con la Fpga - Alhambra 2.
 
-En el siguiente ejemplo [ESP8266-Wifi-Test-01.ice](https://github.com/vascodh/Chapuzas-con-FPGA-S-Libres/blob/master/Controladores/Esp8266-ESP-01/Ejemplos-ICESTUDIO/Esp8266-Wifi-Test-01.ice) se configura automaticamente el Modulo ESP8266
+En el siguiente ejemplo [ESP8266-Wifi-Test-01.ice](https://github.com/vascodh/Chapuzas-con-FPGA-S-Libres/tree/master/Controladores/Esp8266-ESP-01/Ejemplos-ICESTUDIO) se configura automaticamente el Modulo ESP8266
 
 ![Esp8266-mode-station](https://github.com/vascodh/Chapuzas-con-FPGA-S-Libres/blob/master/Controladores/Esp8266-ESP-01/Documentos/ESP-01-ESP8266-Mode-station.svg)
 #### Archivos de configuración - se pasan como parametro
