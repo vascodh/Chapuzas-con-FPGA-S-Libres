@@ -54,4 +54,5 @@ En el siguiente ejemplo [ESP8266-Wifi-Test-01.ice](https://github.com/vascodh/Ch
 + pass.list -> Contraseña de la red Wifi
 + Estos archivos deben estar en la misma carpeta que el ejemplo
 
-Video mos
+Video ejemplo mostrando la carga en la fpga [Carga ejemplo](https://youtu.be/zkvY8XCA9cw)
+[Videdo del funcionamiento](https://youtu.be/p_D9Acy_0II), le damos reset a la placa y vemos como parpadea el led hasta que se conecta
