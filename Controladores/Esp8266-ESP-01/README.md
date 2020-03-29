@@ -42,12 +42,12 @@ La parte de recepción serie, recibe del pin tx del módulo las respuestas a los
 + Todo lo que se recibe se muestra por el puerto serie sacandolo por el pin Tx
 + Si se reciben consecutivamente los caracteres "O" y "K" se emite un tíc que se utiliza para hacer parpadear un led.
 
-El circuito para probrarlo en el ICESTUDIO, en la sección de ejemplos -> [Conexión-Esp8266](https://github.com/vascodh/Chapuzas-con-FPGA-S-Libres/blob/master/Controladores/Esp8266-ESP-01/Ejemplos-ICESTUDIO/)
+El circuito para probrarlo en el ICESTUDIO, en la sección de ejemplos -> [Conexión-Esp8266](https://github.com/vascodh/Collection-Esp8266-esp-01/blob/master/examples/Conexion/)
 ***
 ### Controlador Esp8266-ESP-01 - Modo Estación - Mode station
 Este controlador se encarga de configurar el modulo en  Modo estación, el cual permite conectarse a una red wifi hogareña y establecer una ip fija a traves de la cual podemos comunicarnos inalambricamente con el módulo y a su vez con la Fpga - Alhambra 2.
 
-En el siguiente ejemplo [ESP8266-Wifi-Test-01.ice](https://github.com/vascodh/Chapuzas-con-FPGA-S-Libres/tree/master/Controladores/Esp8266-ESP-01/Ejemplos-ICESTUDIO) se configura automaticamente el Modulo ESP8266
+En el siguiente ejemplo [ESP8266-Wifi-Test-01.ice](https://github.com/vascodh/Collection-Esp8266-esp-01/tree/master/examples/Esp8266-Mode-station) se configura automaticamente el Modulo ESP8266
 
 ![Esp8266-mode-station](https://github.com/vascodh/Chapuzas-con-FPGA-S-Libres/blob/master/Controladores/Esp8266-ESP-01/Documentos/ESP-01-ESP8266-Mode-station.svg)
 #### Archivos de configuración - se pasan como parametro
