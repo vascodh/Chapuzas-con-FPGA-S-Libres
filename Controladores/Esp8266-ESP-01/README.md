@@ -59,3 +59,17 @@ En el siguiente ejemplo [ESP8266-Wifi-Test-01.ice](https://github.com/vascodh/Co
 Video ejemplo mostrando la carga en la fpga [Carga ejemplo](https://youtu.be/zkvY8XCA9cw)
 
 [Video del funcionamiento](https://youtu.be/p_D9Acy_0II), le damos reset a la placa y vemos como parpadea el led hasta que se conecta
+
+### Test 2 - Modo estación
+
+[ESP8266-Wifi-Test-02.ice](https://github.com/vascodh/Collection-Esp8266-esp-01/tree/master/examples/Esp8266-Mode-station). Interacción con el módulo a traves del navegador y la ip asignada
+
+![Esp8266-mode-station](https://github.com/vascodh/Chapuzas-con-FPGA-S-Libres/blob/master/Controladores/Esp8266-ESP-01/Documentos/Test2.png)
+
+El modulo es configurado como un pequeño servidor en la dirección ip asignda.
+
+Se puede utilizar un navegador web - PC o Telefono movil Ingresando en la URL la IP fija http://192.168.0.150 y añadir a continuacion lo que queremos enviar... en este ejemplo sería
+### http://192.168.0.150/L7
+
+
+[Video del funcionamiento](https://youtu.be/Y0o3x6M7JW8)
